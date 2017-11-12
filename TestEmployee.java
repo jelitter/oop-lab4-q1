@@ -1,6 +1,6 @@
 package lab04.part1;
 
-public class TextEmployee {
+public class TestEmployee {
 
 	public static void main(String[] args) {
 
